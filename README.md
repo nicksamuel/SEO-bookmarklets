@@ -3,23 +3,15 @@ A collection of Javascript Bookmarks aka "Bookmarklets" for SEOs in order to spe
 
 ## About
 
-The concept of bookmarklets has been around for a number of years. 
+The concept of bookmarklets has been around for a number of years. By the time I started by first agency job in 2013 when I graduated these were already fairly common knolwedge:
 
-By the time I started by first agency job in 2013 when I graduated these were already fairly common knolwedge:
-
-Anyway, with the rise of powerful and freely available Chrome and Firefox extensions "bookmarklets" kind of fell out fashion for a while, and I never really paid them that much attention for quite a few years. 
+With the rise of powerful and freely available Chrome and Firefox extensions "bookmarklets" kind of fell out fashion for a while, and I never really paid them that much attention for quite a few years. 
 
 This changed last year when one day my colleague at Havas, Aleks (https://twitter.com/aleks_radecka), "randomly" shared a cool one she uses for highlighting on-page elements.
 
-And then coincidentally a week or two later Glen Alsopp aka Viper Chill published a pretty definitive guide which gained a lot of traction on SEO twitter:
+And then coincidentally a week or two later Glen Alsopp aka Viper Chill published a pretty definitive guide which gained a lot of traction on SEO twitter (https://twitter.com/cyrusshepard/status/1119080261793112064):
 
-- Cyrus Shepard - https://twitter.com/cyrusshepard/status/1119080261793112064
-
-- Screaming Frog - https://twitter.com/screamingfrog/status/1119166328705667073
-
-- Aleyda Solis - https://twitter.com/aleyda/status/1191059349059313664
-
-Anyway, a year later...I started a new role and was chatting about them at work, but realised I didn't really have them saved in a centralised place. Thought it would be fun to round-up the ones that I have bookmarked and occasionally use myself.
+Anyway, a year later...I started a new role and was chatting about them at work and I thought it would be fun to round-up the ones that I have bookmarked and occasionally use myself.
 
 ## How to use
 
