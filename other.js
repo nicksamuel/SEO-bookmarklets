@@ -18,3 +18,13 @@ javascript:location.href='https://web.archive.org/web/*/'+ window.location.href
 
 javascript:location.href='https://web.archive.org/web/*/'+ window.location.host
 
+// 4. Bing Site Index Checker - Cognitive SEO
+
+javascript:void(window.open(%27http://www.bing.com/search?q=site:%27+document.domain.replace(%27www.%27,%27%27),%27_blank%27));
+                            
+// 5. DuckDuckGo Site Index Checker - Cognitive SEO
+                            
+javascript:void(window.open(%27https://duckduckgo.com/?q=site:%27+document.domain.replace(%27www.%27,%27%27),%27_blank%27));
+                            
+
+
