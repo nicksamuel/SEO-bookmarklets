@@ -26,9 +26,7 @@ In the case of the examples in this repo, I've saved them all in a JavaScript fi
 
 **Did you create all of these bookmarklets?**
 
-No, most of them were created by other people around the web.
-
-I'd love to cite every unique source of each Bookmarklet but it's not really practical.
+No, most of them were created by other people around the web. I'd love to cite every unique source of each Bookmarklet but it's not really practical.
 
 A good majority are based on the same piece of JavaScript code which basically appends the current URL in the browser tab as a parameter onto a pre-defined URL.
 
@@ -40,17 +38,17 @@ I don't think any individual can take credit for that :-P
 
 **Can you share this snippet again but as a full example?**
 
-This one was straight from the Detailed.com guide :-P
-
 ```javascript:location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+window.location```
+
+This one was actually straight from the Detailed.com guide, so I will credit in this instance :-P
 
 **Will they work for Chrome/Firefox/Safari/Edge/Other Browser?**
 
 I *think* so...
 
-Try them out and you should know if they work very quickly or not...
+Try them out and you should know if they work very quickly or not.
 
-Hopefully it goes without saying, but you're gonna be out of luck for any specific Chrome functions e.g. Clear Cache.
+Hopefully it goes without saying, but you're gonna be out of luck for cross-browser compatibility for any specific Chrome functions e.g. Clear Cache.
 
 ## Further Reading
 
@@ -61,6 +59,7 @@ Hopefully it goes without saying, but you're gonna be out of luck for any specif
 - 10 SEO Bookmarklets to Analyze Page Links and Images - Ann Smarty (2008) - https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
 
 - Jesse Ruderman - so old that Chrome isn't even referenced (April 2004) - https://www.squarefree.com/bookmarklets/seo.html
+
 - Cites Proppeler.net (2004) https://www.searchenginepeople.com/blog/more-seo-bookmarklets.html
 
 - Ann Smarty in Search Engine Journal (Nov 2008) (https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/)
