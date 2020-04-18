@@ -1,6 +1,6 @@
 // These are five fairly popular tools from Google which can be used outside of Search Console and Lighthouse:
 
-// As from the Detailed.com guide, change window.location. to window.location.host. if you always want to run the tests on the homepage.
+// As per the Detailed.com guide, change window.location. to window.location.host. if you want to automatically run the tests on the homepage
 
 
 // 1. Pagespeed Insights
