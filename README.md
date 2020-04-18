@@ -11,11 +11,11 @@ Anyway, with the rise of powerful and freely available Chrome and Firefox extens
 
 And then coincidentally a week or two later Glen Alsopp aka Viper Chill published a pretty definitive guide which gained a lot of traction on SEO twitter:
 
-- https://twitter.com/cyrusshepard/status/1119080261793112064
+- Cyrus Shepard - https://twitter.com/cyrusshepard/status/1119080261793112064
 
-- https://twitter.com/screamingfrog/status/1119166328705667073
+- Screaming Frog - https://twitter.com/screamingfrog/status/1119166328705667073
 
-- https://twitter.com/aleyda/status/1191059349059313664
+- Aleyda Solis - https://twitter.com/aleyda/status/1191059349059313664
 
 
 Anyway a year later...I started a new role and was chatting about them at work, but realised I didn't really have them saved in a centralised place. Until now :-D
