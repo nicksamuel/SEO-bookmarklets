@@ -7,11 +7,6 @@ The concept of bookmarklets has been around for a number of years.
 
 By the time I started by first agency job in 2013 when I graduated these were already fairly common knolwedge:
 
-- Jesse Ruderman - so old that Chrome isn't even referenced (April 2004) - https://www.squarefree.com/bookmarklets/seo.html
-- Cites Proppeler.net (2004) https://www.searchenginepeople.com/blog/more-seo-bookmarklets.html
-- Ann Smarty in Search Engine Journal (Nov 2008) (https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/)..
-- Moz (2011) - https://moz.com/blog/some-nifty-seo-bookmarklets-to-make-you-more-efficient  
-
 Anyway, with the rise of powerful and freely available Chrome and Firefox extensions "bookmarklets" kind of fell out fashion for a while, and I never really paid them that much attention for quite a few years. 
 
 This changed last year when one day my colleague at Havas, Aleks (https://twitter.com/aleks_radecka), "randomly" shared a cool one she uses for highlighting on-page elements.
@@ -49,10 +44,13 @@ I don't think any individual can take credit for that :-P
 
 **Can you share this snippet?**
 
+```javascript:location.href='https://www.example.com/siteurl?='+window.location```
+
+**Can you share this snippet again but as a full example?**
+
+This one was straight from the Detailed.com guide :-P
 
 ```javascript:location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+window.location```
-
-
 
 **Will they work for Chrome/Firefox/Safari/Edge/Other Browser?**
 
@@ -60,7 +58,7 @@ I *think* so...
 
 Try them out and you should know if they work very quickly or not...
 
-
+Hopefully it goes without saying, but you're gonna be out of luck for any specific Chrome functions e.g. Clear Cache.
 
 ## Further Reading
 
@@ -70,3 +68,9 @@ Try them out and you should know if they work very quickly or not...
 
 - 10 SEO Bookmarklets to Analyze Page Links and Images - Ann Smarty (2008) - https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
 
+- Jesse Ruderman - so old that Chrome isn't even referenced (April 2004) - https://www.squarefree.com/bookmarklets/seo.html
+- Cites Proppeler.net (2004) https://www.searchenginepeople.com/blog/more-seo-bookmarklets.html
+
+- Ann Smarty in Search Engine Journal (Nov 2008) (https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/)
+
+- Moz (2011) - https://moz.com/blog/some-nifty-seo-bookmarklets-to-make-you-more-efficient  
