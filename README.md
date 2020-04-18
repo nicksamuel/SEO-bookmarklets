@@ -28,17 +28,17 @@ I've divided the bookmarklets into the following approximate categories:
 
 1. **Google Tools** - [Querying Google services e.g. Mobile Friendly Testing Tool](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-tools.js)
 
-2. SEO Tools - Querying popular SEO tools e.g. Ahrefs and Majestic: https://github.com/nicksamuel/seo-bookmarklets/blob/master/seo-tools.js
+2. **SEO Tools** - [Querying popular SEO tools e.g. Ahrefs and Majestic](https://github.com/nicksamuel/seo-bookmarklets/blob/master/seo-tools.js)
 
-3. On-Page - Performing common on-page checks e.g. No-Follow links: https://github.com/nicksamuel/seo-bookmarklets/blob/master/on-page.js
+3. **On-Page** - [Performing common on-page checks e.g. No-Follow links](https://github.com/nicksamuel/seo-bookmarklets/blob/master/on-page.js)
 
-4. Other SEO Tools - Querying other slightly less popular SEO tools e.g. Way Back Machine: https://github.com/nicksamuel/seo-bookmarklets/blob/master/other.js
+4. **Other SEO Tools** - [Querying other slightly less popular SEO tools e.g. Way Back Machine](https://github.com/nicksamuel/seo-bookmarklets/blob/master/other.js)
 
-5. Google Index - Querying Google Index e.g. Sitesearch and inurl: https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-index.js
+5. **Google Index** - [Querying Google Index e.g. Sitesearch and inurl](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-index.js)
 
-6. Site Speed - Querying popular speed checking tools: https://github.com/nicksamuel/seo-bookmarklets/blob/master/site-speed.js
+6. **Site Speed** - [Querying popular speed checking tools](https://github.com/nicksamuel/seo-bookmarklets/blob/master/site-speed.js)
 
-7. Chrome Functions - One click Chrome functions e.g. Clear Cache: https://github.com/nicksamuel/seo-bookmarklets/blob/master/chrome-functions
+7. **Chrome Functions** - [One click Chrome functions e.g. Clear Cache](https://github.com/nicksamuel/seo-bookmarklets/blob/master/chrome-functions)
 
 ## FAQs
 
@@ -48,11 +48,11 @@ Straight from Wikipedia: "A bookmarklet is a bookmark stored in a web browser th
 
 **Did you create all of these yourself?**
 
-No, mos of them were created by other people around the web. I'd love to cite every unique source of each Bookmarklet but it's not really practical.
+No, most of them were created by other people around the web. I've tried to cite the source where I first found the example, however this isn't to say they are the original author.
 
 A good majority are based on the same piece of JavaScript code which basically appends the current URL in the browser tab as a parameter onto a pre-defined URL.
 
-I don't think any individual can take credit for that :-P
+So like a lot of things relating to code, the concept of "ownership" is kind of useless/irrelevant.
 
 **Can you share this common snippet?**
 
