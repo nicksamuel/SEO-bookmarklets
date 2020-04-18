@@ -1,4 +1,4 @@
-// These are all based on Google Services
+// These are all based on individual testing tools from Google.
 
 // Example 1
 
