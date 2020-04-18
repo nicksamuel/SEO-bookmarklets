@@ -26,7 +26,7 @@ In the case of the examples in this repo, I've saved them all in a JavaScript fi
 
 I've divided the bookmarklets into the following approximate categories:
 
-1. Google Tools - Querying Google services e.g. Mobile Friendly Testing Tool: https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-tools.js
+*1. Google Tools* - Querying Google services e.g. Mobile Friendly Testing Tool: https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-tools.js
 
 2. SEO Tools - Querying popular SEO tools e.g. Ahrefs and Majestic: https://github.com/nicksamuel/seo-bookmarklets/blob/master/seo-tools.js
 
