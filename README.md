@@ -24,7 +24,7 @@ In the case of the examples in this repo, I've saved them all in a JavaScript fi
 
 ## Contents
 
-I've divided the bookmarklets into the following approximate categories:
+I've divided the bookmarklets into the following approximate categories (they all open in same window):
 
 1. **Google Tools** - [Querying Google services e.g. Mobile Friendly Testing Tool](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-tools.js)
 
