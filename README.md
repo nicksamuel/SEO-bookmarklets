@@ -60,14 +60,14 @@ Hopefully it goes without saying, but you're gonna be out of luck for cross-brow
 
 ## Further Reading
 
-- Wikipedia (2020) - Bookmarklet: https://en.wikipedia.org/wiki/Bookmarklet
+- Ann Smarty in Search Engine Journal (2008) - Part One - 9 Google Bookmarklets for SEOs: https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/
 
-- Viper Chill (2019) Advanced Google Chrome Bookmarklets for SEOs: A Detailed Guide: https://detailed.com/chrome-bookmarklets-seo/
+- Ann Smarty in Search Engine Journal (2008) Part Three - 10 SEO Bookmarklets to Analyze Page Links and Images: https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
+
+- Detailed.com/Viper Chill (2019) Advanced Google Chrome Bookmarklets for SEOs: https://detailed.com/chrome-bookmarklets-seo/
 
 - Jesse Ruderman (2004) - So old that Chrome isn't even referenced: https://www.squarefree.com/bookmarklets/seo.html
 
-- Ann Smarty/Search Engine Journal (2008) 10 SEO Bookmarklets to Analyze Page Links and Images https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
-
-- Ann Smarty/Search Engine Journal (Nov 2008) - 9 Google Bookmarklets for SEOs  (https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/)
-
 - Moz (2011) - Some Nifty SEO Bookmarklets To Make You More Efficient: https://moz.com/blog/some-nifty-seo-bookmarklets-to-make-you-more-efficient  
+
+- Wikipedia (2020) - Bookmarklet: https://en.wikipedia.org/wiki/Bookmarklet
