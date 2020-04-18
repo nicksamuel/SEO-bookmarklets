@@ -11,9 +11,9 @@ javascript:window.open('https://www.google.com/search?q=site%3A%27+window.locati
                        
 javascript:window.location.href='https://www.google.com/search?q=site%3A%27+window.location.hostname+%27 -inurl:https'
                        
+                     
                        
-                       
-// 3. View Google Web Cache - Detailed.com
+// 3. View Google Web Cache - Detailed.com - NEED TO FIX.
                        
 javascript:location.href='https://webcache.googleusercontent.com/search?q=cache:’+window.location              
                        
