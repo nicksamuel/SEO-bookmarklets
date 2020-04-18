@@ -36,9 +36,7 @@ I've divided the bookmarklets into the following approximate categories (they al
 
 5. **Google Index** - [Querying Google Index e.g. Sitesearch and inurl](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-index.js)
 
-6. **Site Speed** - [Querying popular speed checking tools](https://github.com/nicksamuel/seo-bookmarklets/blob/master/site-speed.js)
-
-7. **Chrome Functions** - [One click Chrome functions e.g. Clear Cache](https://github.com/nicksamuel/seo-bookmarklets/blob/master/chrome-functions)
+6. **Chrome Functions** - [One click Chrome functions e.g. Clear Cache](https://github.com/nicksamuel/seo-bookmarklets/blob/master/chrome-functions)
 
 ## FAQs
 
