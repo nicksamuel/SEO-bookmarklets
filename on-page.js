@@ -1,5 +1,6 @@
-//on-page examples
+// ON-PAGE EXAMPLES
 
-//examples 1
+// No Follow - Detailed.com
 
-// etc2
+javascript:var a = document.getElementsByTagName('a');for(var i=0; i<a.length; i++)if (a[i].rel === 'nofollow') {a[i].style.backgroundColor = 'red';a[i].style.fontSize = '2em';
+}
