@@ -49,13 +49,12 @@ I don't think any individual can take credit for that :-P
 
 **Can you share this snippet?**
 
-Sure:
 
-'''javascript:location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+window.location'''
-
+```javascript:location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+window.location```
 
 
-**Will they work for Chrome/Firefox/Safari/Edge/Other Browser*?*
+
+**Will they work for Chrome/Firefox/Safari/Edge/Other Browser?**
 
 I *think* so...
 
