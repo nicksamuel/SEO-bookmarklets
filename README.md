@@ -38,11 +38,11 @@ I don't think any individual can take credit for that :-P
 
 **Can you share this common snippet?**
 
-```javascript:location.href='https://www.example.com/siteurl?='+window.location```
+```javascript javascript:location.href='https://www.example.com/siteurl?='+window.location```
 
 **Can you share this snippet again but as a full example?**
 
-```javascript:location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+window.location```
+```javascript javascript:location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+window.location```
 
 This one was actually straight from the Detailed.com guide, so I will credit in this instance :-P
 
