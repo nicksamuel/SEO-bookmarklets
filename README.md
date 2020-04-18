@@ -11,11 +11,9 @@ I've divided the bookmarklets into the following approximate categories (Opens i
 
 3. **On-Page** - [Performing common on-page checks e.g. No-Follow links](https://github.com/nicksamuel/seo-bookmarklets/blob/master/on-page.js)
 
-4. **Other SEO Tools** - [Querying other slightly less popular SEO tools e.g. Way Back Machine](https://github.com/nicksamuel/seo-bookmarklets/blob/master/other.js)
+4. **Google Index** - [Querying Google Index e.g. Sitesearch and inurl](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-index.js)
 
-5. **Google Index** - [Querying Google Index e.g. Sitesearch and inurl](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-index.js)
-
-6. **Chrome Functions** - [One click Chrome functions e.g. Clear Cache](https://github.com/nicksamuel/seo-bookmarklets/blob/master/chrome-functions)
+5. **Other SEO Tools** - [Querying other slightly less popular SEO tools e.g. Way Back Machine](https://github.com/nicksamuel/seo-bookmarklets/blob/master/other.js)
 
 ## About
 
