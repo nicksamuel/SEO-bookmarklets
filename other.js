@@ -30,7 +30,7 @@ javascript:void(window.open(%27https://duckduckgo.com/?q=site:%27+document.domai
                             
 javascript:(function(d)%7Bvar%20f%3Dd.createElement(%27form%27)%3Bf.action%3D%27http://gtmetrix.com/analyze.html%3Fbm%27%3Bf.method%3D%27post%27%3Bvar%20i%3Dd.createElement(%27input%27)%3Bi.type%3D%27hidden%27%3Bi.name%3D%27url%27%3Bi.value%3Ddocument.location.href%3Bf.appendChild(i)%3Bd.body.appendChild(f)%3Bf.submit()%3B%7D)(document)%3B
 
-// 7. WHO IS Search - SEO Cipher
+// 7. WHO IS Search - SEO Cipher - NEED TO TEST
 
 javascript:(function()%7B%20window.open(%27http://whois.sc/%27%20%2B%20escape(window.location))%3B%20%7D)()%3B
             
