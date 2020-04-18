@@ -66,8 +66,6 @@ javascript:location.href='https://search.google.com/structured-data/testing-tool
 
 Most should work, but from a few tests in Firefox you're definitely safer using Chrome. Either way you will be able to tell very quickly if they work or not.
 
-Hopefully it goes without saying, but you're gonna be out of luck for cross-browser compatibility for any specific Chrome functions e.g. Clear Cache.
-
 **Why don't you just use markdown files to list the bookmarklets?**
 
 This only dawned on me as an option towards the end of this project. Whilst I guess it might be easier for people to bookmark these, it would be way more difficult to maintain and edit this document for me. Never say never...
