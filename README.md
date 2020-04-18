@@ -1,6 +1,22 @@
 # SEO Bookmarklets
 A collection of Javascript Bookmarks aka "Bookmarklets" for SEOs in order to speed up daily checks, audits, analysis and routine SEO tasks.
 
+## Contents / Quick Jump
+
+I've divided the bookmarklets into the following approximate categories (Opens in same window):
+
+1. **Google Tools** - [Querying Google services e.g. Mobile Friendly Testing Tool](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-tools.js)
+
+2. **SEO Tools** - [Querying popular SEO tools e.g. Ahrefs and Majestic](https://github.com/nicksamuel/seo-bookmarklets/blob/master/seo-tools.js)
+
+3. **On-Page** - [Performing common on-page checks e.g. No-Follow links](https://github.com/nicksamuel/seo-bookmarklets/blob/master/on-page.js)
+
+4. **Other SEO Tools** - [Querying other slightly less popular SEO tools e.g. Way Back Machine](https://github.com/nicksamuel/seo-bookmarklets/blob/master/other.js)
+
+5. **Google Index** - [Querying Google Index e.g. Sitesearch and inurl](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-index.js)
+
+6. **Chrome Functions** - [One click Chrome functions e.g. Clear Cache](https://github.com/nicksamuel/seo-bookmarklets/blob/master/chrome-functions)
+
 ## About
 
 The concept of bookmarklets has been around for a number of years. By the time I started by first agency job in 2013 when I graduated these were already fairly common knolwedge:
@@ -21,22 +37,6 @@ There's two main ways depending on how they are saved/presented on a page:
 2. Create a new bookmark - save JavaScript code in "location" section.
 
 In the case of the examples in this repo, I've saved them all in a JavaScript file so you will have to manually copy/paste and create new bookmarks.
-
-## Contents
-
-I've divided the bookmarklets into the following approximate categories (Opens in same window):
-
-1. **Google Tools** - [Querying Google services e.g. Mobile Friendly Testing Tool](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-tools.js)
-
-2. **SEO Tools** - [Querying popular SEO tools e.g. Ahrefs and Majestic](https://github.com/nicksamuel/seo-bookmarklets/blob/master/seo-tools.js)
-
-3. **On-Page** - [Performing common on-page checks e.g. No-Follow links](https://github.com/nicksamuel/seo-bookmarklets/blob/master/on-page.js)
-
-4. **Other SEO Tools** - [Querying other slightly less popular SEO tools e.g. Way Back Machine](https://github.com/nicksamuel/seo-bookmarklets/blob/master/other.js)
-
-5. **Google Index** - [Querying Google Index e.g. Sitesearch and inurl](https://github.com/nicksamuel/seo-bookmarklets/blob/master/google-index.js)
-
-6. **Chrome Functions** - [One click Chrome functions e.g. Clear Cache](https://github.com/nicksamuel/seo-bookmarklets/blob/master/chrome-functions)
 
 ## FAQs
 
