@@ -1,4 +1,4 @@
-// PAGE LEVEL METRICS
+// PAGE LEVEL METRICS - Detailed.com unless otherwise stated
 
 // Ahrefs
 
@@ -20,7 +20,7 @@ javascript:location.href='https://www.semrush.com/info/'+window.location.href
 
 
 
-// DOMAIN LEVEL METRICS
+// DOMAIN LEVEL METRICS - Detailed.com unless otherwise stated
 
 // Ahrefs - need to fix this one.
 
@@ -38,3 +38,6 @@ javascript:location.href='https://analytics.moz.com/pro/link-explorer/overview?s
 
 javascript:location.href='https://www.semrush.com/info/'+window.location.host
 
+// Search Metrics - Cognitive SEO
+
+javascript:(function(){%20window.open('http://suite.searchmetrics.com/en/research?acc=0&url='+location.hostname)})();
