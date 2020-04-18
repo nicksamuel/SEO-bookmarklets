@@ -9,7 +9,7 @@ With the rise of powerful and freely available Chrome and Firefox extensions "bo
 
 This changed last year when one day my colleague at Havas, Aleks (https://twitter.com/aleks_radecka), "randomly" shared a cool one she uses for highlighting on-page elements.
 
-And then coincidentally a week or two later Glen Alsopp aka Viper Chill published a pretty definitive guide which gained a lot of traction on SEO twitter (https://twitter.com/cyrusshepard/status/1119080261793112064):
+And then coincidentally a week or two later Glen Alsopp aka Viper Chill published a pretty great guide which gained a lot of traction on SEO twitter and which I really enjoyed (https://twitter.com/cyrusshepard/status/1119080261793112064).
 
 Anyway, a year later...I started a new role and was chatting about them at work and I thought it would be fun to round-up the ones that I have bookmarked and occasionally use myself.
 
