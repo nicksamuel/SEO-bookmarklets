@@ -68,11 +68,13 @@ This one was actually straight from the Detailed.com guide, so I will credit in 
 
 **Will they work for Chrome/Firefox/Safari/Edge/Other Browser?**
 
-I *think* so...
-
-Try them out and you should know if they work very quickly or not.
+Most should work, but from a few tests in Firefox you're definitely safer using Chrome. Either way you will be able to tell very quickly if they work or not.
 
 Hopefully it goes without saying, but you're gonna be out of luck for cross-browser compatibility for any specific Chrome functions e.g. Clear Cache.
+
+**Why don't you just use markdown files to list the bookmarklets?**
+
+This only dawned on me as an option towards the end of this project. Whilst I guess it might be easier for people to bookmark these, it would be way more difficult to maintain and edit this document for me. Never say never...
 
 ## Further Reading
 
@@ -80,7 +82,7 @@ Hopefully it goes without saying, but you're gonna be out of luck for cross-brow
 
 - Ann Smarty in Search Engine Journal (2008) - 10 SEO Bookmarklets to Analyze Page Links and Images: https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
 
-- Detailed.com/Viper Chill (2019) Advanced Google Chrome Bookmarklets for SEOs: https://detailed.com/chrome-bookmarklets-seo/
+- Detailed.com by Viper Chill (2019) Advanced Google Chrome Bookmarklets for SEOs: https://detailed.com/chrome-bookmarklets-seo/
 
 - Jesse Ruderman (2004) - So old that Chrome isn't even referenced: https://www.squarefree.com/bookmarklets/seo.html
 
