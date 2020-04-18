@@ -60,9 +60,9 @@ Hopefully it goes without saying, but you're gonna be out of luck for cross-brow
 
 ## Further Reading
 
-- Ann Smarty in Search Engine Journal (2008) - Part One - 9 Google Bookmarklets for SEOs: https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/
+- Ann Smarty in Search Engine Journal (2008) - 9 Google Bookmarklets for SEOs: https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/
 
-- Ann Smarty in Search Engine Journal (2008) Part Three - 10 SEO Bookmarklets to Analyze Page Links and Images: https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
+- Ann Smarty in Search Engine Journal (2008) - 10 SEO Bookmarklets to Analyze Page Links and Images: https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
 
 - Detailed.com/Viper Chill (2019) Advanced Google Chrome Bookmarklets for SEOs: https://detailed.com/chrome-bookmarklets-seo/
 
