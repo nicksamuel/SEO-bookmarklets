@@ -64,8 +64,6 @@ javascript:location.href='https://www.example.com/siteurl?='+window.location
 javascript:location.href='https://search.google.com/structured-data/testing-tool/u/0/#url='+window.location
 ```
 
-This one was actually straight from the Detailed.com guide, so I will credit in this instance :-P
-
 **Will they work for Chrome/Firefox/Safari/Edge/Other Browser?**
 
 Most should work, but from a few tests in Firefox you're definitely safer using Chrome. Either way you will be able to tell very quickly if they work or not.
