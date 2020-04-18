@@ -24,15 +24,19 @@ In the case of the examples in this repo, I've saved them all in a JavaScript fi
 
 ## FAQs
 
-**Did you create all of these bookmarklets?**
+**What is a Bookmarklet?**
 
-No, most of them were created by other people around the web. I'd love to cite every unique source of each Bookmarklet but it's not really practical.
+
+
+**Did you create all of these yourself?**
+
+No, mos of them were created by other people around the web. I'd love to cite every unique source of each Bookmarklet but it's not really practical.
 
 A good majority are based on the same piece of JavaScript code which basically appends the current URL in the browser tab as a parameter onto a pre-defined URL.
 
 I don't think any individual can take credit for that :-P
 
-**Can you share this snippet?**
+**Can you share this common snippet?**
 
 ```javascript:location.href='https://www.example.com/siteurl?='+window.location```
 
@@ -52,16 +56,14 @@ Hopefully it goes without saying, but you're gonna be out of luck for cross-brow
 
 ## Further Reading
 
-- Wikipedia - Bookmarklet: https://en.wikipedia.org/wiki/Bookmarklet
+- Wikipedia (2020) - Bookmarklet: https://en.wikipedia.org/wiki/Bookmarklet
 
-- Advanced Google Chrome Bookmarklets for SEOs: A Detailed Guide (2019): https://detailed.com/chrome-bookmarklets-seo/
+- Viper Chill (2019) Advanced Google Chrome Bookmarklets for SEOs: A Detailed Guide: https://detailed.com/chrome-bookmarklets-seo/
 
-- 10 SEO Bookmarklets to Analyze Page Links and Images - Ann Smarty (2008) - https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
+- Jesse Ruderman (2004) - So old that Chrome isn't even referenced: https://www.squarefree.com/bookmarklets/seo.html
 
-- Jesse Ruderman - so old that Chrome isn't even referenced (April 2004) - https://www.squarefree.com/bookmarklets/seo.html
+- Ann Smarty/Search Engine Journal (2008) 10 SEO Bookmarklets to Analyze Page Links and Images https://www.searchenginejournal.com/10-seo-bookmarklets-to-analyze-page-links-and-images/8150/
 
-- Cites Proppeler.net (2004) https://www.searchenginepeople.com/blog/more-seo-bookmarklets.html
+- Ann Smarty/Search Engine Journal (Nov 2008) - 9 Google Bookmarklets for SEOs  (https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/)
 
-- Ann Smarty in Search Engine Journal (Nov 2008) (https://www.searchenginejournal.com/9-google-bookmarklets-for-seos/8068/)
-
-- Moz (2011) - https://moz.com/blog/some-nifty-seo-bookmarklets-to-make-you-more-efficient  
+- Moz (2011) - Some Nifty SEO Bookmarklets To Make You More Efficient: https://moz.com/blog/some-nifty-seo-bookmarklets-to-make-you-more-efficient  
