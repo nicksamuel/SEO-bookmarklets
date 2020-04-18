@@ -29,6 +29,8 @@ javascript:(function(){var i,c,x,h; for(i=0;x=document.links[i];++i) { h=x.getAt
 
 javascript:(function(){%20window.open('http://validator.w3.org/checklink?uri='+encodeURIComponent(location.href)+'&hide_type=all&depth=&check=Check')})();
 
+// 8. Remove URL Parameters
 
+javascript:console.log('Original URL: '+window.location);window.history.replaceState('','',window.location.origin+window.location.pathname);
 
 
