@@ -11,9 +11,9 @@ javascript:window.open('https://www.google.com/search?q=site%3A%27+window.locati
 javascript:window.location.href='https://www.google.com/search?q=site%3A%27+window.location.hostname+%27 -inurl:https'
                                       
                        
-// 3. View Google Web Cache - Detailed.com - NEED TO FIX.
-                       
-javascript:location.href='https://webcache.googleusercontent.com/search?q=cache:’+window.location      
+// 3. View Google Web Cache - SEO Cipher - NEED TO FIX.
+                                          
+javascript:(function()%7B%20window.open(%27http://webcache.googleusercontent.com/search%3Fq%3Dcache:%27%2BencodeURIComponent(location.href))%7D)()%3B      
                        
 // 4. View Google Cache for last 7 days - Cognitive SEO
                        
